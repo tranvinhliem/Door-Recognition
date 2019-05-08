@@ -35,7 +35,7 @@ Face Detection
 Download the file:
 * [Face Dataset](https://github.com/tranvinhliem/Face-Recognition---RPi-version/blob/master/face_dataset.py) - We added, was an "input command" to capture a user id, that should be an integer number (1, 2, 3, etc)
 * [Face Training](https://github.com/tranvinhliem/Face-Recognition---RPi-version/blob/master/face_training.py) -  We must take all user data from our dataset and "trainer" the OpenCV Recognizer. This is done directly by a specific OpenCV function. The result will be a .yml file that will be saved on a "trainer/" directory.
-* [Face Dataset](https://github.com/tranvinhliem/Face-Recognition---RPi-version/blob/master/face_dataset.py) - We added, was an "input command" to capture a user id, that should be an integer number (1, 2, 3, etc)
+* [Door](https://github.com/tranvinhliem/Door-Recognition/blob/master/door.py) - The main program of this project
 
 ## Authors
 Based on project of Mr.Marcelo Provai
