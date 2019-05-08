@@ -1,6 +1,4 @@
-# Project Title
-
-One Paragraph of project description goes here
+# Door Recognition System
 
 ## Getting Started
 These instructions will give you opportunity to buil your own Smart Door with Face Recognition
